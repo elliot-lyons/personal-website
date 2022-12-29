@@ -1,0 +1,39 @@
+footer
+{
+    background: var(--colour-primary);
+    padding: 3rem 0;
+    text-align: center;
+    font-size: 0.9rem;
+    margin-top: 7rem;
+}
+
+footer a
+{
+    color: var(--colour-bg);
+}
+
+.permalinks
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+    margin-bottom: 4rem;
+}
+
+.footer__copyright
+{
+    margin-bottom: 4rem;
+    color: var(--colour-bg);
+}
+
+/* MEDIA QUERIES (SMALL DEVICES) */
+@media screen and (max-width: 600px)
+{
+    .permalinks
+    {
+        flex-direction: column;
+        gap: 1.5rem;
+    }
+
+}

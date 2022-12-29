@@ -44,7 +44,7 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>I have worked in and lead/captained teams in a professional, academic and sporting environments</p>
+              <p>I have worked in and lead/captained teams in professional, academic and sporting environments</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
