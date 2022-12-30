@@ -1,6 +1,6 @@
 {
-  "homepage": "https://elliot-lyons.github.io/personal-website/",
   "name": "react-portfolio-website-1",
+  "homepage": "https://elliot-lyons.github.io/personal-website/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
